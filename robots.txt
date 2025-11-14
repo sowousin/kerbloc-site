@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://votre-utilisateur.github.io/kerbloc-site/sitemap.xml
